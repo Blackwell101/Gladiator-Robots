@@ -1,1 +1,3 @@
-<script src="./assets/js/game.js"></script>
+fight(); {
+    window.alert("The fight has begun!");
+}
